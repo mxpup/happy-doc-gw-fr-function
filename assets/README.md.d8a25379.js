@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.9e17d901.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"README.md","lastUpdated":1625013599666}',a={};a.render=function(r,a,o,d,i,n){return t(),e("div")};export default a;export{r as __pageData};
