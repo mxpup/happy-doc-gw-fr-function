@@ -1,1 +1,0 @@
-import{o as n,c as a,a as t}from"./app.9e17d901.js";const s='{"title":"逻辑判断函数","description":"","frontmatter":{},"headers":[{"level":2,"title":"if_null","slug":"if-null"}],"relativePath":"function/03_logic.md","lastUpdated":1625464673226}',e={},p=t('',8);e.render=function(t,s,e,l,c,o){return n(),a("div",null,[p])};export default e;export{s as __pageData};

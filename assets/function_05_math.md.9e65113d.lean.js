@@ -1,1 +1,0 @@
-import{o as t,c as n,a}from"./app.9e17d901.js";const s='{"title":"数学函数","description":"","frontmatter":{},"headers":[{"level":2,"title":"div","slug":"div"}],"relativePath":"function/05_math.md","lastUpdated":1625465575879}',e={},p=a('',9);e.render=function(a,s,e,c,l,o){return t(),n("div",null,[p])};export default e;export{s as __pageData};
